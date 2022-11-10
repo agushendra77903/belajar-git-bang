@@ -1,1 +1,1 @@
-belajar git 
+belajar git agar semangat
